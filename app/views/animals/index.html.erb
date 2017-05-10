@@ -1,6 +1,8 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Animals</h1>
+<h2 style="font-family: 'Trebuchet MS'; text-align: center;">Click the</h2>
+<h1 style="font-family: 'Trebuchet MS'; text-align: center; font-size: 72px">Animals</h1>
+<h2 style="font-family: 'Trebuchet MS'; text-align: center;">Charlie!</h2>
 
 <% @animals.each do |animal| %>
   <div class="col-md-12 col-xs-12">
@@ -9,7 +11,7 @@
         <div class="panel-body">
           <%= image_tag "#{animal.name.downcase}.jpg", style: "width: 600px", class: "img-responsive center-block", id: "#{animal.name.downcase}" %>
         </div>
-        <div class="panel-footer"><%= animal.name %></div>
+        <div class="panel-footer" id="animal-name" style="font-family: 'Trebuchet MS'; text-align: center; font-size: 24px"><%= animal.name.upcase %></div>
       </div>
     </div>
   </div>
