@@ -1,4 +1,3 @@
-
 <p id="notice"><%= notice %></p>
 
 <h1>Animals</h1>
@@ -14,10 +13,8 @@
       </div>
     </div>
   </div>
+    <%= audio_tag("#{animal.name.downcase}.wav", type: 'wav/audio', autoplay: false, class: animal.name.downcase) %>
 
 <% end %>
-
-
-<button type="button" class="btn btn-primary" id="play-sound">Play</button>
 
 
