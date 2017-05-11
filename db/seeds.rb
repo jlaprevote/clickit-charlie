@@ -12,5 +12,6 @@ Animal.create([
                   { name: 'Chicken', sound: 'chicken.wav', photo: 'chicken.png' },
                   { name: 'Wolf', sound: 'wolf.wav', photo: 'wolf.jpg' },
                   { name: 'Sheep', sound: 'sheep.wav', photo: 'sheep.jpg' },
-                  { name: 'Cow', sound: 'cow.wav', photo: 'cow.jpg' }
+                  { name: 'Cow', sound: 'cow.wav', photo: 'cow.jpg' },
+                  { name: 'Elephant', sound: 'elephant.wav', photo: 'elephant.jpg' }
               ])
