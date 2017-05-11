@@ -4,19 +4,20 @@
 <h1 style="font-family: 'Trebuchet MS'; text-align: center; font-size: 72px">Animals</h1>
 <h2 style="font-family: 'Trebuchet MS'; text-align: center;">Charlie!</h2>
 
-  <div class="col-md-12 col-xs-12">
-<% @animals.each do |animal| %>
-    <div class="col-md-6 col-xs-6">
-      <div class="panel panel-primary">
-        <div class="panel-body">
-          <%= image_tag "#{animal.name.downcase}.jpg", class: "img-responsive center-block", id: "#{animal.name.downcase}" %>
-        </div>
-        <div class="panel-footer" id="animal-name" style="font-family: 'Trebuchet MS'; text-align: center; font-size: 24px"><%= animal.name.upcase %></div>
-      </div>
-    </div>
-  </div>
-    <%= audio_tag("#{animal.name.downcase}.wav", type: 'wav/audio', autoplay: false, class: animal.name.downcase) %>
-
-<% end %>
-
-
+<div class="container">
+  <div class="row">
+    <div class="col-md-12 col-xs-12">
+      <% @animals.each do |animal| %>
+          <div class="col-md-offset-2 col-md-8 col-xs-offset-1 col-xs-10">
+            <div class="panel panel-primary effect2">
+              <div class="panel-body">
+                <%= image_tag "#{animal.name.downcase}.jpg", class: "img-responsive center-block", id: "#{animal.name.downcase}" %>
+              </div>
+              <div class="panel-footer" id="animal-name" style="font-family: 'Trebuchet MS'; text-align: center; font-size: 32px"><%= animal.name.upcase %></div>
+            </div>
+          </div>
+          </div>
+          <%= audio_tag("#{animal.name.downcase}.wav", type: 'wav/audio', autoplay: false, class: animal.name.downcase) %>
+          </div>
+          </div>
+      <% end %>

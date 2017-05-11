@@ -31,3 +31,8 @@ $ ->
     audio = document.getElementsByClassName("cow")[0];
     audio.play();
     return null
+
+  $("#elephant").click ->
+    audio = document.getElementsByClassName("elephant")[0];
+    audio.play();
+    return null
