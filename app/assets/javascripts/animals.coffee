@@ -2,6 +2,19 @@
 # All this logic will automatically be available in application.js.
 # You can use CoffeeScript in this file: http://coffeescript.org/
 $ ->
+  $gridItem = $('.grid-item')
+  $gridItem.hide()
+  $grid = $('.grid').imagesLoaded( ()->
+    $gridItem.fadeIn()
+
+    $grid.masonry({
+        itemSelector: '.grid-item',
+        columnWidth: '.grid-sizer',
+        fitWidth: true
+      }
+      console.log('in masonry')
+  ));
+
   $("#dog").click ->
     audio = document.getElementsByClassName("dog")[0];
     audio.play();
