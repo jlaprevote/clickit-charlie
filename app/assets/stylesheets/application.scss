@@ -25,13 +25,4 @@
   background-color: #2e7fff;
 }
 
-.grid-sizer,
-.grid-item {
-    width: 100px;
-}
-
-.grid-item {
-    height: 200px;
-    float: left;
-    border-radius: 5px;
-}
+.grid-item { width: 20%; }

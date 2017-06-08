@@ -8,9 +8,10 @@
       <% @animals.each do |animal| %>
           <div class="grid">
             <div class="grid-sizer"></div>
-            <div class="grid-item"></div>
-              <%= image_tag "#{animal.name.downcase}.jpeg", id: "#{animal.name.downcase}", data: { animal: "#{animal.name.downcase}" } %>
-              <%= audio_tag("#{animal.name.downcase}.wav", type: 'wav/audio', autoplay: false, class: animal.name.downcase) %>
+            <div class="item">
+                <%= image_tag "#{animal.name.downcase}.jpeg", id: "#{animal.name.downcase}", data: { animal: "#{animal.name.downcase}" } %>
+                <%= audio_tag("#{animal.name.downcase}.wav", type: 'wav/audio', autoplay: false, class: animal.name.downcase) %>
+            </div>
           </div>
       <% end %>
 </div>
