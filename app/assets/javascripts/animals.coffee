@@ -2,13 +2,10 @@
 # All this logic will automatically be available in application.js.
 # You can use CoffeeScript in this file: http://coffeescript.org/
 $ ->
-  $grid = $('.grid').masonry({
-    itemSelector: '.grid-item',
-    percentPosition: true
-  })
-
-  $grid.imagesLoaded ->
-    $grid.masonry('layout')
+  $('.grid').imagesLoaded ->
+    $('.grid').masonry
+      itemSelector: ".grid-item",
+      isFitWidth: true
 
   ###$grid = $('.grid').masonry(
     fitWidth: true
