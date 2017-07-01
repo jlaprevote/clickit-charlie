@@ -9,7 +9,7 @@
     <div class="grid-sizer"></div>
       <% @animals.each do |animal| %>
             <div class="grid-item">
-                <%= image_tag "#{animal.name.downcase}.jpeg", class: "item", id: "#{animal.name.downcase}", data: { animal: "#{animal.name.downcase}" }, height: 435, width: 640 %>
+                <%= image_tag "#{animal.name.downcase}.jpeg", class: "item", id: "#{animal.name.downcase}", data: { animal: "#{animal.name.downcase}" }, size: '640x435' %>
                 <%= audio_tag("#{animal.name.downcase}.wav", type: 'wav/audio', autoplay: false, class: animal.name.downcase) %>
               <h1><%= animal.name.upcase %></h1>
             </div>

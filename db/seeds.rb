@@ -7,11 +7,11 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Animal.create([
-                  { name: 'Dog', sound: 'dog.wav', photo: 'dog.jpg' },
-                  { name: 'Cat', sound: 'cat.wav', photo: 'cat.jpg' },
-                  { name: 'Chicken', sound: 'chicken.wav', photo: 'chicken.png' },
-                  { name: 'Wolf', sound: 'wolf.wav', photo: 'wolf.jpg' },
-                  { name: 'Sheep', sound: 'sheep.wav', photo: 'sheep.jpg' },
-                  { name: 'Cow', sound: 'cow.wav', photo: 'cow.jpg' },
-                  { name: 'Elephant', sound: 'elephant.wav', photo: 'elephant.jpg' }
+                  { name: 'Dog' },
+                  { name: 'Cat' },
+                  { name: 'Chicken' },
+                  { name: 'Wolf' },
+                  { name: 'Sheep' },
+                  { name: 'Cow' },
+                  { name: 'Elephant' }
               ])
