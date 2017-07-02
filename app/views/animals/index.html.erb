@@ -2,7 +2,7 @@
 
 <div class="body">
   <h2 style="font-family: 'Trebuchet MS'; text-align: center;">Click the</h2>
-  <h1 style="font-family: 'Trebuchet MS'; text-align: center; font-size: 72px">Animals</h1>
+  <h1 style="font-family: 'Trebuchet MS'; text-align: center; font-size: 72px">ANIMALS</h1>
   <h2 style="font-family: 'Trebuchet MS'; text-align: center;">Charlie!</h2>
 
   <div id="masonry-container" class="transitions-enabled infinite-scroll clearfix">
@@ -10,8 +10,8 @@
       <div class="grid-sizer"></div>
       <% @animals.each do |animal| %>
           <div class="grid-item">
-            <%= image_tag "#{animal.name.downcase}.jpeg", class: "item", id: "#{animal.name.downcase}", data: { animal: "#{animal.name.downcase}" }, size: '640x435' %>
-            <%= audio_tag("#{animal.name.downcase}.wav", type: 'wav/audio', autoplay: false, class: animal.name.downcase) %>
+            <%= image_tag "#{animal.name.downcase}.jpeg", class: "item", id: "#{animal.name.downcase}", data: { animal: "#{animal.name.downcase}" }, size: '320x217' %>
+            <%= audio_tag("animals/#{animal.name.downcase}.wav", type: 'wav/audio', autoplay: false, class: animal.name.downcase) %>
             <h1><%= animal.name.upcase %></h1>
           </div>
       <% end %>
