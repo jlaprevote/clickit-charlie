@@ -15,3 +15,7 @@ Animal.create([
                   { name: 'Cow' },
                   { name: 'Elephant' }
               ])
+
+"a".upto"z" do |l|
+  Letter.create([ { name: l }])
+end

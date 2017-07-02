@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  resources :letters
   root 'animals#index'
 
   resources :animals
