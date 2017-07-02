@@ -1,3 +1,15 @@
 // Place all the styles related to the Letters controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+.letter-item {
+  width: 320px;
+  height: 217px;
+  background-color: #2e7fff;
+  text-align: center;
+  margin: 10px;
+}
+
+#letter {
+  font-size: 120px;
+}

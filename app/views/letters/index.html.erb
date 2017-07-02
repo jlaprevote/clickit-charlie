@@ -1,3 +1,18 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Letters</h1>
+<div class="body">
+  <h2 style="font-family: 'Trebuchet MS'; text-align: center;">Click the</h2>
+  <h1 style="font-family: 'Trebuchet MS'; text-align: center; font-size: 72px">LETTERS</h1>
+  <h2 style="font-family: 'Trebuchet MS'; text-align: center;">Charlie!</h2>
+
+  <div id="masonry-container" class="transitions-enabled infinite-scroll clearfix">
+    <div class="grid">
+      <% @letters.each do |letter| %>
+          <div class="letter-item">
+            <div class="item" id="<%= letter.name %>"><span id="letter"><%= letter.name %></span></div>
+            <%= audio_tag("letters/#{letter.name }.mp3", type: 'mp3/audio', autoplay: false, class: letter.name.downcase) %>
+          </div>
+      <% end %>
+    </div>
+  </div>
+</div>
