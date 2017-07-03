@@ -10,9 +10,6 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery
-//= require jquery.turbolinks
-//= require jquery_ujs
 
 //= require jquery
 //= require bootstrap
@@ -22,5 +19,4 @@
 //= require masonry/jquery.imagesloaded.min
 //= require masonry/modernizr-transitions
 
-//= require turbolinks
 //= require_tree .

@@ -1,0 +1,1 @@
+(function(){$(function(){return $(".grid").masonry(function(){return{itemSelector:".letter-item",columnWidth:320}})}),$(function(){return $(".letter-item").click(function(){var t,n;return n=$(this).children(".item").attr("id"),t=document.getElementsByClassName(n.toString())[0],t.play(),null})})}).call(this);

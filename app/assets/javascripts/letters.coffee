@@ -4,7 +4,7 @@
 $ ->
     $('.grid').masonry ->
       itemSelector: ".letter-item",
-      columnWidth: 400;
+      columnWidth: 320
 
 $ ->
   $('.letter-item').click ->
