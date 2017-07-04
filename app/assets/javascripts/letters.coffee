@@ -2,7 +2,7 @@
 # All this logic will automatically be available in application.js.
 # You can use CoffeeScript in this file: http://coffeescript.org/
 $ ->
-    $('.grid').masonry ->
+    $('.grid-letter').masonry ->
       itemSelector: ".letter-item",
       columnWidth: 320
 

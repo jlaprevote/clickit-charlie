@@ -3,9 +3,9 @@
 # You can use CoffeeScript in this file: http://coffeescript.org/
 
 $(document).ready ->
-  $('.grid').imagesLoaded ->
-    $('.grid').masonry
-      itemSelector: ".grid-item",
+  $('.grid-animal').imagesLoaded ->
+    $('.grid-animal').masonry
+      itemSelector: ".animal-item",
       isFitWidth: true
 
 $ ->
