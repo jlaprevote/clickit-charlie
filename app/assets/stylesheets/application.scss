@@ -19,6 +19,7 @@
 @import 'masonry/transitions';
 @import "animals";
 @import "letters";
+@import "numbers";
 
 
 .animal-item {
@@ -31,6 +32,11 @@
 
 h1 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1, .title {
+  font-family: "Trebuchet MS";
+  text-align: center;
 }
 
 // navbar - http://css-snippets.com/simple-horizontal-navigation/

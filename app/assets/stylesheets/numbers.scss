@@ -1,0 +1,15 @@
+// Place all the styles related to the numbers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.number-item {
+  width: 320px;
+  height: 217px;
+  background-color: #228b22;
+  text-align: center;
+  margin: 10px;
+}
+
+#number {
+  font-size: 120px;
+}

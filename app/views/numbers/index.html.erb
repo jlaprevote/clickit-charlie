@@ -1,0 +1,16 @@
+<p id="notice"><%= notice %></p>
+
+<div class="body">
+  <h1 class="title">Click the <span style="font-size: 72px">NUMBERS</span> Charlie!</h1>
+
+  <div id="masonry-container" class="transitions-enabled infinite-scroll clearfix">
+    <div class="grid-number">
+      <% @numbers.each do |number| %>
+          <div class="number-item">
+            <div class="item" id="<%= number.name %>"><span id="number"><%= number.name %></span></div>
+            <%= audio_tag("numbers/#{number.name }.mp3", type: 'mp3/audio', autoplay: false, class: number.name) %>
+          </div>
+      <% end %>
+    </div>
+  </div>
+</div>

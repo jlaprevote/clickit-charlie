@@ -19,3 +19,7 @@ Animal.create([
 "a".upto"z" do |l|
   Letter.create([ { name: l }])
 end
+
+1.upto(10) do |n|
+  Number.create([ { name: n }])
+end

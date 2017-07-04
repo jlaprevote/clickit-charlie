@@ -248,16 +248,21 @@ body {
 }
 
 /* line 25, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
-.grid-item {
+.animal-item {
   margin: 10px;
 }
 
 /* line 29, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
+.letter-item {
+  margin: 10px;
+}
+
+/* line 33, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
 h1 {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-/* line 34, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
+/* line 38, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
 .nav ul {
   list-style: none;
   background-color: #444;
@@ -266,7 +271,7 @@ h1 {
   margin: 0;
 }
 
-/* line 41, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
+/* line 45, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
 .nav li {
   font-family: 'Oswald', sans-serif;
   font-size: 1.2em;
@@ -275,7 +280,7 @@ h1 {
   border-bottom: 1px solid #888;
 }
 
-/* line 49, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
+/* line 53, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
 .nav a {
   text-decoration: none;
   color: #fff;
@@ -283,12 +288,12 @@ h1 {
   transition: .3s background-color;
 }
 
-/* line 56, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
+/* line 60, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
 .nav a:hover {
   background-color: #005f5f;
 }
 
-/* line 60, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
+/* line 64, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
 .nav a.active {
   background-color: #fff;
   color: #444;
@@ -296,7 +301,7 @@ h1 {
 }
 
 @media screen and (min-width: 600px) {
-  /* line 67, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
+  /* line 71, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
   .nav li {
     width: 120px;
     border-bottom: none;
@@ -305,7 +310,7 @@ h1 {
     font-size: 1.4em;
   }
 
-  /* line 75, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
+  /* line 79, /Users/Jack/dev/Rails/clickit-charlie/app/assets/stylesheets/application.scss */
   .nav li {
     display: inline-block;
     margin-right: -4px;
