@@ -6,7 +6,7 @@ $(document).ready ->
   $('.grid-animal').imagesLoaded ->
     $('.grid-animal').masonry
       itemSelector: ".animal-item",
-      isFitWidth: true
+      fitWidth: true
 
 $ ->
   $('.item').click ->
