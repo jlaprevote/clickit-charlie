@@ -2,102 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba6bfda4-951b-43f6-a1bc-933a486c23aa" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/.sprockets-manifest-cfd65379f7005f2c2cbe17e6282c97bb.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals-2fd65bcd4c9b39e8fd7b0f4be2eb7957a2c530cf10672f18f288bed88cd6464e.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals-2fd65bcd4c9b39e8fd7b0f4be2eb7957a2c530cf10672f18f288bed88cd6464e.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals-a3d5badc7a8c8ef2e6282d93a8b07fb20324313da611d233fcf145d98759b8e3.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals-a3d5badc7a8c8ef2e6282d93a8b07fb20324313da611d233fcf145d98759b8e3.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals/cat-56156f06313e1e5fb834a68313d668f3b7282ae137e9d8770c75b18619517e39.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals/chicken-1bf936e22707f691a0e2a6624d664cbd6c1f33447c1978b3ed8e199fbbce01d5.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals/cow-a4f9382eb1e572fa726d4acbc6f541f5b04c7e48265a3c40261eb46833bdcf6b.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals/dog-9fbb648ce383a081ce894205922a9e51d47882af09d755cd8c9cd6b794c64d2b.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals/elephant-3c1f08fc1ec0f02c149e46c497c4decef961188b1f17beed75e1aef95c81aae0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals/sheep-82af04f935b710f295d9af81e266b0809d17d318f46d4b59ede745237743230d.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/animals/wolf-3ad0ab1e82b59fd65e9a1d4fb31b3aad0376f189b87e4fc7b51e0948e05c990a.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-1ea66df30c948b6fb96a3c440a35ade6e0f20fb586b44bd73c687863a4eb25a5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-1ea66df30c948b6fb96a3c440a35ade6e0f20fb586b44bd73c687863a4eb25a5.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-3a9e49bc540e7d638b2964f5fda96529ada5f902e6bed4b759acbef4d1e520b4.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-3a9e49bc540e7d638b2964f5fda96529ada5f902e6bed4b759acbef4d1e520b4.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-47e163fd8bdb0d10cd51fab45ba0803597d32fbf9efbf482c611e0917e018fec.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-47e163fd8bdb0d10cd51fab45ba0803597d32fbf9efbf482c611e0917e018fec.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-4ce288f826d751cdbb16f7f7eb471b113f9952523f022de63fabc1fceff1f590.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-4ce288f826d751cdbb16f7f7eb471b113f9952523f022de63fabc1fceff1f590.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-929d38cd568204cec4f27ad823f60256d1ddc3560b358e0d940884fef92b2a21.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-929d38cd568204cec4f27ad823f60256d1ddc3560b358e0d940884fef92b2a21.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-ac2319b82b5ef49ecf7ed47e12e2479470decd63fe866320705383d873d52413.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-ac2319b82b5ef49ecf7ed47e12e2479470decd63fe866320705383d873d52413.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b2dc1f08afa2f0eb3927d4e8b60211e16c332ed35e71111bd55a6f9599390c3d.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-b2dc1f08afa2f0eb3927d4e8b60211e16c332ed35e71111bd55a6f9599390c3d.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-dfcf89d62534563bf5e1b655a6bce167f83eb88860c53359ba9de0d88e869596.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/application-dfcf89d62534563bf5e1b655a6bce167f83eb88860c53359ba9de0d88e869596.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/cat-56156f06313e1e5fb834a68313d668f3b7282ae137e9d8770c75b18619517e39.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/cat-a50d501e39f7c1620ba19c88134e0b5ba41ddabaf8ff021ef4ffffaee1c441b4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/chicken-1bf936e22707f691a0e2a6624d664cbd6c1f33447c1978b3ed8e199fbbce01d5.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/chicken-eaf014d45813abb5f21f00a0e288085936649d6f3e3313a971821a1299c4ce88.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/cow-621f19943f792363e693b6d2a9d10fb1ae03e957d0be52aa8aa74c1f27d820fe.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/cow-a4f9382eb1e572fa726d4acbc6f541f5b04c7e48265a3c40261eb46833bdcf6b.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/dog-63953e0158544d69c804b3e68cc2fb45a4f83995b791abca58b3ca34eb01fb43.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/dog-9fbb648ce383a081ce894205922a9e51d47882af09d755cd8c9cd6b794c64d2b.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/elephant-3c1f08fc1ec0f02c149e46c497c4decef961188b1f17beed75e1aef95c81aae0.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/elephant-99f8d5884565032d0554d48fa54028045875aadcc7f32f07d5d4d6aafcef5378.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters-0e08ae3fcb106fddc5556a0c43ab05bc6c723786cb824ea79a2431b898447661.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters-0e08ae3fcb106fddc5556a0c43ab05bc6c723786cb824ea79a2431b898447661.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters-7d46c55ddde5733f187f6cf8691b3f3f781c62d34b37a7afe9623d6b0749a6c6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters-7d46c55ddde5733f187f6cf8691b3f3f781c62d34b37a7afe9623d6b0749a6c6.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters-bee40795b188d24ee36db61ac1f73bf0e78236935c92f5a5c5422a17bce31267.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters-bee40795b188d24ee36db61ac1f73bf0e78236935c92f5a5c5422a17bce31267.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters-f2f16fa9aefbc94bf606771d585d93b02bb738ccb9946bf84d5890e010e91110.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters-f2f16fa9aefbc94bf606771d585d93b02bb738ccb9946bf84d5890e010e91110.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters-fdfcd26e848c804bdce7b68d06b02ea9bbedbec6f0391ed9336407c461420761.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters-fdfcd26e848c804bdce7b68d06b02ea9bbedbec6f0391ed9336407c461420761.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/a-d6f92607ee42c891a597844022346dc8693362710f8d53aff7e0af09616b362a.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/b-cd07033d5849cfed06da3bc6b11ab79016a85fbe2f1ff2eec31490af5ba51e3d.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/c-96cd3c71b35a302769ac74e70322a700011b68fcf780d3ecbe21f546c6dae394.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/d-ca958ae6a602ffb8593034e7a63bd2bf661cfbbb95b851b7893c82f336e58651.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/e-72d7d3792c7bc1a2e0d7af971cac5ba67402c5e62b011f27d731c50251520313.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/f-26e4de9dcfd2272bc337118cbc9d995bcbed88016fa62c8677f566438802d741.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/g-056edbeba4cb944bba7633c3e1427935f2c1b4ca1329b863c98a02c3ba446d48.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/h-557feda006781bee9380b892e5e7aa74c87fc6d110e9b77d09ed989fdd243ed9.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/i-c4c9aca7cd2053482ae6d6cbe046a205186e5b39b586b3f53fdaa4d762a94e2a.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/j-e8e1cb45108f52950c3427fe93dc772e611cf181a4104c41ad2af4c141999618.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/k-d8c39850d9c9cf6b5b879d4b34183cf90a7236d02cf937b6165bde9782c807c7.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/l-a595f7120479c39b400b7e77fbaeb0b49770037132c2e10df8c4ca5f13d3a2cc.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/m-b696f3ee3b6e73b8e900a699b908d61e6bb96ca0b6e8662d4cd474cd5cef63dc.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/n-a938799c3d49af052261f4c3841a4019feb465efcff3760c8194227bcf258ced.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/o-397f43ee294d268b373919cf9c6e0bd9ef583d95578ba1e4dffaf5bd47c796a6.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/p-06fc092b77ce1e9cac818407ccdd1ae7a0871140a15a9a615abeefe6cc33273f.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/q-2623520801c665ced34037dd077d707f1a02660dc1f82db959bca803d731c340.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/r-1e5c6ec4916ad1e3e139ce4748cd2e7db478a4917fe6b01cb6b43d7d4fe7a286.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/s-c8dddd01c32f9560ee82caa1225ec1c355fc3be9236396f1fb9ea617b6d31059.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/t-1f89fd261857daf1aeb2d32a44b711eb16b653c248e4c2ba024e41809d9cf2ff.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/u-15706b2e3fcbf83e88996e5021993df062e4cedde5b281df9428e2a1f292a2e9.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/v-79dbe956f3855943044932f16f8437d58c57ce5f0647d7eba4f051c7652d4dac.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/w-86ff113462ab3269b5ef9712a389f3b9301b1464c65e693c802d689145b365b7.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/x-2686fb5524651772dfb026c7eb956e05f5ebb950fd60cc6b5c20cc622dd04aff.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/y-31ec1bb580ac02d1bfd67817334d37344138cb057a48dd57bbaf4ae8bc6fa896.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/letters/z-61ce59323430eb1c5507a4e184c919d74c16408468bf69bc756f8882a06b2c61.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers-45b61768810b7e3610edb82050a188a8cd790688531c391e45e244fc7909fa75.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers-45b61768810b7e3610edb82050a188a8cd790688531c391e45e244fc7909fa75.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers-ec7213bd042dfc8db9f174cd1240c6e55d5becd1aa2c796895f8188441b8ac31.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers-ec7213bd042dfc8db9f174cd1240c6e55d5becd1aa2c796895f8188441b8ac31.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers/0-1617842fc4cd48b73ee0690fe04bb99c428f08a062489f786131f8858ae8dda6.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers/1-35f3e7271689d55f7a6e8b7796f5337207bff2218fcd89e75993fdbd1f5db992.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers/10-016403c4a6618669b62056db1e7c79575e8e04f68f8f66d2b39defedd2e0c7e0.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers/2-0944e1eef6f8b97d6bf0b3decb1b631940e9c6d6be71871bd916e3a4d628284b.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers/3-96b589d4c60b1bca2fedd4eb2512e46b66d726b087adbff2422d5d61cce3054d.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers/4-2bcda19ce7afb818c1835816df3bc359a9f22346a1415badacbfb5acc84cb030.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers/5-0d562a38a808c73dfc65a91390f00efe79ecb65978e6c82e8e7011cc0fde407b.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers/6-9f4b3f35542d3ad27d807fbc4d20fd0f08c6586acccb89376c3e24c18a8f23a7.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers/7-fbbc4669eb014e223c6460d8ce5dd2ea03a9f1295c6a15df152ecf31c49c5291.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers/8-87fe1de2b6965fcd29d32a1d7493e9b84fd4ba2e2b1091b4cc6aa77cf9fac6bd.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/numbers/9-638bf145af268188182e72dfe1210a82957950b1b3f93325b723cf5cd35febf0.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/sheep-82af04f935b710f295d9af81e266b0809d17d318f46d4b59ede745237743230d.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/sheep-d431a05979d6329cb26784b96062509581059e9da6f689a934972b4a414e52ca.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/wolf-3ad0ab1e82b59fd65e9a1d4fb31b3aad0376f189b87e4fc7b51e0948e05c990a.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/wolf-3b7c8a3c6a73d39271d43f37c1633b2e5e7dcd8f5806d1a2894ff0b52253f056.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -117,14 +23,22 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/animals/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="67" lean-forward="false" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -133,7 +47,7 @@
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/numbers.coffee">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+              <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -142,7 +56,7 @@
       <file leaf-file-name="application.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="540">
               <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
               <folding />
             </state>
@@ -153,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/letters.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -174,9 +88,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="67" lean-forward="false" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -195,10 +107,8 @@
         <entry file="file://$PROJECT_DIR$/app/views/numbers/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="88" lean-forward="true" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+              <caret line="3" column="88" lean-forward="false" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -232,7 +142,6 @@
         <option value="$PROJECT_DIR$/app/models/letter.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/animals.scss" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/letters.scss" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/letters.coffee" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/animals.coffee" />
@@ -245,6 +154,7 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/letters/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/animals/index.html.erb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -275,7 +185,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="RailsProjectView" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -594,8 +506,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -862,35 +772,36 @@
       <workItem from="1498941556687" duration="9283000" />
       <workItem from="1499019710465" duration="9580000" />
       <workItem from="1499048180910" duration="629000" />
-      <workItem from="1499171447748" duration="3917000" />
+      <workItem from="1499171447748" duration="4145000" />
+      <workItem from="1499473342940" duration="154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71481000" />
+    <option name="totallyTimeSpent" value="71863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="44" y="23" width="1396" height="877" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297362" sideWeight="0.5028653" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297362" sideWeight="0.49713466" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -938,7 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="53" lean-forward="false" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1005,7 +915,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="53" lean-forward="true" selection-start-line="35" selection-start-column="53" selection-end-line="35" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1130,7 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1138,14 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,9 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1170,7 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1178,7 +1074,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1186,7 +1081,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1194,7 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1202,14 +1095,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/numbers.coffee">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <caret line="14" column="15" lean-forward="false" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
           <folding />
         </state>
       </provider>
@@ -1225,7 +1117,7 @@
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/letters.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <caret line="14" column="1" lean-forward="false" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1240,7 +1132,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="540">
           <caret line="36" column="3" lean-forward="false" selection-start-line="36" selection-start-column="3" selection-end-line="36" selection-end-column="3" />
           <folding />
         </state>
@@ -1257,10 +1149,8 @@
     <entry file="file://$PROJECT_DIR$/app/views/numbers/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="88" lean-forward="true" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="3" column="88" lean-forward="false" selection-start-line="3" selection-start-column="88" selection-end-line="3" selection-end-column="88" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1268,27 +1158,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="67" lean-forward="false" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/application-dfcf89d62534563bf5e1b655a6bce167f83eb88860c53359ba9de0d88e869596.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/application-dfcf89d62534563bf5e1b655a6bce167f83eb88860c53359ba9de0d88e869596.js" />
     <entry file="file://$PROJECT_DIR$/app/views/animals/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="67" lean-forward="false" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#h1#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
