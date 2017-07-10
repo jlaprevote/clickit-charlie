@@ -5,7 +5,7 @@
 
   <div id="masonry-container" class="transitions-enabled infinite-scroll clearfix">
     <div class="grid-animal">
-      <% @animals.each do |animal| %>
+      <% @animals.shuffle.each do |animal| %>
           <div class="animal-item">
             <%= image_tag "#{animal.name.downcase}.jpeg", class: "item", id: "#{animal.name.downcase}", data: { animal: "#{animal.name.downcase}" }, size: '360x240' %>
             <%= audio_tag("animals/#{animal.name.downcase}.wav", type: 'wav/audio', autoplay: false, class: animal.name.downcase) %>
