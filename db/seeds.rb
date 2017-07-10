@@ -13,7 +13,14 @@ Animal.create([
                   { name: 'Wolf' },
                   { name: 'Sheep' },
                   { name: 'Cow' },
-                  { name: 'Elephant' }
+                  { name: 'Elephant' },
+                  { name: 'Dolphin' },
+                  { name: 'Lion' },
+                  { name: 'Rooster' },
+                  { name: 'Duck' },
+                  { name: 'Fish' },
+                  { name: 'Frog' },
+                  { name: 'Pig' }
               ])
 
 "a".upto"z" do |l|
