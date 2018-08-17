@@ -1,0 +1,17 @@
+<p id="notice"><%= notice %></p>
+
+<div class="body">
+  <h1 class="title">Click the <span style="font-size: 72px">DINOSAURS</span> Charlie!</h1>
+
+  <div id="masonry-container" class="transitions-enabled infinite-scroll clearfix">
+    <div class="grid-animal">
+      <% @dinosaurs.shuffle.each do |dinosaur| %>
+          <div class="animal-item">
+            <%= image_tag "#{dinosaur.name.downcase}.jpg", class: "item", id: "#{dinosaur.name.downcase}", data: { animal: "#{dinosaur.name.downcase}" }, size: '360x240' %>
+            <%= audio_tag("animals/#{dinosaur.name.downcase}.wav", type: 'wav/audio', autoplay: false, class: dinosaur.name.downcase) %>
+            <h1><%= dinosaur.name.upcase %></h1>
+          </div>
+      <% end %>
+    </div>
+  </div>
+</div>

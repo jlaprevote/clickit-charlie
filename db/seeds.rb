@@ -30,3 +30,10 @@ end
 1.upto(10) do |n|
   Number.create([ { name: n }])
 end
+
+Dinosaur.create([
+    { name: 'Tyrannosaurus Rex'},
+    { name: 'Stegosaurus'},
+    { name: 'Triceratops'},
+    { name: 'Brachiosaurus'}
+                ])
