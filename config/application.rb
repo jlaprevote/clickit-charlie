@@ -13,5 +13,6 @@ module ClickitCharlie
     # -- all .rb files in that directory are automatically loaded.
     config.serve_static_assets = true
     config.assets.enabled = true
+    config.assets.initialize_on_precompile = false
   end
 end
