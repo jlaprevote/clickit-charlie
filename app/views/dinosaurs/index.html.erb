@@ -7,7 +7,8 @@
     <div class="grid-dinosaur">
       <% @dinosaurs.shuffle.each do |dinosaur| %>
           <div class="dinosaur-item">
-            <%= image_tag "#{dinosaur.name.downcase}.jpg", class: "item", id: "#{dinosaur.name.downcase}", data: { animal: "#{dinosaur.name.downcase}" }, size: '360x240' %>
+            <%= image_tag "#{dinosaur.name.downcase}.jpeg", class: "item", id: "#{dinosaur.name.downcase}", data: { animal: "#{dinosaur.name.downcase}" }, size: '360x240' %>
+            <%= audio_tag("dinosaurs/#{dinosaur.name.downcase}.wav", type: 'wav/audio', autoplay: false, class: dinosaur.name.downcase) %>
             <h1><%= dinosaur.name.upcase %></h1>
           </div>
       <% end %>
